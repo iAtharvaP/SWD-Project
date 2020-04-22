@@ -1,0 +1,61 @@
+body{
+    background-color:#a8e6ff;
+}
+
+
+
+
+
+.container-fluid
+{
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color:#1c4966;
+  display: inline-block;
+  margin: 0px;
+  padding-bottom: 0px;
+  padding-top: 25px;
+display: inline-block;
+}
+
+
+
+.navbar-header
+{
+color: #ffff;
+}
+
+.jumbotron
+{
+  margin: 0px;
+padding: 100px;
+}
+
+
+.last
+{
+  padding:100px;
+}
+
+
+  
+
+table{
+      border-collapse: collapse;
+      width: 100%;
+      color: #0e2433;
+      font-family: monospace;
+      font-size: 30px;
+      text-align: center;
+    }
+
+th{
+      background-color: #0e2433 ;
+      color: white;
+    }
+
+tr:nth-child(even)  
+    {
+      background-color: #f2f2f2;
+    }
+    
